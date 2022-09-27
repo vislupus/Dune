@@ -1,0 +1,21 @@
+{
+    "name": "dune",
+    "displayName": "Dune",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dune",
+                "uiTheme": "vs",
+                "path": "./themes/Dune-color-theme.json"
+            }
+        ]
+    }
+}
