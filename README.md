@@ -26,7 +26,8 @@ The main goal of this theme is to be easy on eyes on low brightness monitor.
 
 ## Screenshots
 
-![theme_old](screenshots/Code_2023-02-06_10-29-48.png  "title-1" =50%x)  ![theme_new](screenshots/Code_2023-02-06_10-27-34.png  "title-2" =50%x)
+![theme_old](screenshots/Code_2023-02-06_10-29-48.png)
+![theme_new](screenshots/Code_2023-02-06_10-27-34.png)
 
 ## Installation
 [Where are extensions installed?](https://code.visualstudio.com/docs/editor/extension-marketplace#_where-are-extensions-installed)
