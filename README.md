@@ -1,7 +1,10 @@
 <div align="center">
+
 # Dune
+
 Color theme for Visual Studio Code inspired by Adobe Brackets.
 The main goal of this theme is to be easy on eyes on low brightness monitor.
+
 </div>
 
 ## Syntax Palette
@@ -23,13 +26,13 @@ The main goal of this theme is to be easy on eyes on low brightness monitor.
 
 ## Screenshots
 
-![theme_old](screenshots/Code_2023-02-06_10-29-48.png "title-1" =50%x) ![theme_new](screenshots/Code_2023-02-06_10-27-34.png "title-2" =50%x)
+![theme_old](screenshots/Code_2023-02-06_10-29-48.png  "title-1" =50%x)  ![theme_new](screenshots/Code_2023-02-06_10-27-34.png  "title-2" =50%x)
 
 ## Installation
 [Where are extensions installed?](https://code.visualstudio.com/docs/editor/extension-marketplace#_where-are-extensions-installed)
-**Windows** %USERPROFILE%\.vscode\extensions
-**macOS** ~/.vscode/extensions
-**Linux** ~/.vscode/extensions
+**Windows** %USERPROFILE%\.vscode\extensions   
+**macOS** ~/.vscode/extensions   
+**Linux** ~/.vscode/extensions   
 
 [doc](https://vscode-docs1.readthedocs.io/en/latest/getstarted/theme-color-reference/?q=panelTitle.activeBorder&check_keywords=yes&area=default)
 
