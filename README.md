@@ -38,6 +38,8 @@ The main goal of this theme is to be easy on eyes on low brightness monitor.
 
 [doc](https://vscode-docs1.readthedocs.io/en/latest/getstarted/theme-color-reference/?q=panelTitle.activeBorder&check_keywords=yes&area=default)
 
+Developer: Inspect Editor Tokens and Scope
+
 ## License
 
 This theme is released under the [MIT License](https://github.com/vislupus/Dune/blob/main/LICENSE).
