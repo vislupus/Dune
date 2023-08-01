@@ -802,7 +802,10 @@
 	  },
 	  {
 		"name": "Strikethrough",
-		"scope": ["markup.strikethrough", "punctuation.definition.strikethrough"],
+		"scope": [
+			"markup.strikethrough", 
+			"punctuation.definition.strikethrough"
+		],
 		"settings": {
 		  "foreground": "#a0a1a7",
 		  "fontStyle": "strikethrough"
@@ -948,6 +951,93 @@
 		"scope": "markup.underline.link.image",
 		"settings": {
 		  "foreground": "#23974a"
+		}
+	  },
+	  {
+		"name": "HTML block",
+		"scope": [
+			"entity.name.tag.inline.any.html",
+			"entity.name.tag.block.any.html",
+			"entity.name.tag.structure.any.html",
+			"meta.tag.other.html",
+			"meta.tag.structure.any.html",
+		],
+		"settings": {
+			"foreground": "#0065bd"
+		}
+	  },
+	  {
+		"name": "HTML other",
+		"scope": [
+			"entity.name.tag.style.html",
+			"entity.name.tag.script.html",
+		],
+		"settings": {
+			"foreground": "#3a7397"
+		}
+	  },
+	  {
+		"name": "HTML text",
+		"scope": "text.html.derivative",
+		"settings":  {
+			"foreground":"#5f3588"
+		}
+	  },
+	  {
+		"name": "HTML attribute",
+		"scope": "entity.other.attribute-name.html",
+		"settings": {
+			"foreground":"#840d00"
+		}
+	  },
+	  {
+		"name": "HTML quoted",
+		"scope": [
+			"string.quoted.single.html",
+			"string.quoted.double.html",
+			"punctuation.definition.string.begin.html",
+			"punctuation.definition.string.end.html",
+		],
+		"settings": {
+			"foreground":"#003aa5"
+		}
+	  },
+	  {
+		"name": "Django text",
+		"scope": "text.html.django",
+		"settings": {
+			"foreground":"#65180e"
+		}
+	  },
+	  {
+		"name": "Django operator",
+		"scope": [
+			"keyword.operator.django",
+			"keyword.operator.assignment.django",
+		],
+		"settings": {
+			"foreground": "#5f3588"
+		}
+	  },
+	  {
+		"name": "Django keyword",
+		"scope": [
+			"keyword.control.tag-name.django",
+			"storage.type.templatetag.django",
+		],
+		"settings": {
+			"foreground": "#5f3588"
+		}
+	  },
+	  {
+		"name": "Django variable",
+		"scope": [
+			"string.unquoted.tag-string.django",
+			"storage.type.templatetag.django",
+			"storage.type.variable.django",
+		],
+		"settings": {
+			"foreground": "#9c005c"
 		}
 	  },
 	],
