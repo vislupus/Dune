@@ -31,7 +31,7 @@ The main goal of this theme is to be easy on eyes on low brightness monitor.
 ![theme_new](screenshots/Code_2023-03-02_14-20-02.png)
 
 ## Installation
-[Where are extensions installed?](https://code.visualstudio.com/docs/editor/extension-marketplace#_where-are-extensions-installed)
+[Where are extensions installed?](https://code.visualstudio.com/docs/editor/extension-marketplace#_where-are-extensions-installed)    
 **Windows** %USERPROFILE%\.vscode\extensions   
 **macOS** ~/.vscode/extensions   
 **Linux** ~/.vscode/extensions   
