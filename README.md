@@ -38,7 +38,19 @@ The main goal of this theme is to be easy on eyes on low brightness monitor.
 
 [doc](https://vscode-docs1.readthedocs.io/en/latest/getstarted/theme-color-reference/?q=panelTitle.activeBorder&check_keywords=yes&area=default)
 
-Developer: Inspect Editor Tokens and Scope
+Get information about the colors: *Developer: Inspect Editor Tokens and Scope*
+
+## Create VSIX file
+
+1. Use VS Code's Yeoman extension generator to generate a new theme extension
+```
+npm install -g yo generator-code
+yo code
+```
+2. Create package
+```
+vsce package
+```
 
 ## License
 

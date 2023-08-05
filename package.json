@@ -1,8 +1,13 @@
 {
     "name": "dune",
     "displayName": "Dune",
-    "description": "",
+    "description": "My new light theme!",
     "version": "0.0.1",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vislupus/Dune"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -14,7 +19,7 @@
             {
                 "label": "Dune",
                 "uiTheme": "vs",
-                "path": "./themes/Dune-color-theme.json"
+                "path": "./themes/dune-color-theme.json"
             }
         ]
     }
