@@ -51,6 +51,11 @@ yo code
 ```
 vsce package
 ```
+## Get info
+
+Set your color theme to the default high constrast theme. Then, press `Ctrl` + `Shift` + `P` and search for `Developer: Generate Color Theme From Current Settings`. This will generate a file with all of the colors currently applied to your editor.
+
+[Theme Color](https://code.visualstudio.com/api/references/theme-color)
 
 ## License
 
